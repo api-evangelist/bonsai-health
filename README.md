@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bonsai Health is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by bonfire-ventures) and added to the network as a stub for full-pipeline profiling.
-- https://bonsaihealth.com
+Bonsai Health is an AI‑powered platform that helps medical practices improve patient outcomes by automating outreach, scheduling, and follow‑up care. Founded after a personal loss to melanoma, the company aims to ensure no patient is overlooked and to reduce staff burnout. Now part of ModMed, Bonsai Health delivers agentic AI tools for automated patient engagement, appointment filling, and revenue growth across thousands of practices.
+
+**Areas:** Company · Healthcare · AI · PatientEngagement · Automation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.bonsaihealth.com)
+- [Documentation](https://www.bonsaihealth.com/about)
+- [Getting started](https://www.bonsaihealth.com/demo)
+- [Sign up](https://www.bonsaihealth.com/demo)
+- [Terms of service](https://www.bonsaihealth.com/terms-of-use)
+- [Privacy policy](https://www.bonsaihealth.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/bonsai-health/](https://apis.io/providers/bonsai-health/).
